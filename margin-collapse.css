@@ -1,0 +1,15 @@
+.parent {
+    border: 1px solid black;
+}
+
+.child-1 {
+margin-bottom: 20px;
+background-color: aquamarine;
+padding: 10px;
+}
+
+.child-2 {
+    margin-top: 30px;
+    background-color: cadetblue;
+    padding: 10px;
+    }
